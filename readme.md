@@ -1,5 +1,7 @@
 Note for judges: in order to get these to work on your computer, you will likely have to use the "shortcut method" described in the tutorial below, because Windows 10 etc is not very good at locating the right version of Java.
 
+You will probably also have to right-click on the tray icon for Shimeji-ee in order to select the Brovo cheeses (and remove the default Shimeji).
+
 Included mascots:
 - Kraft Buddy, an American cheese slice who is hard at work making paper dolls of the judges
 - Wedge, a sleepy cheese who should have gone to bed earlier but is trying to finish the knitting items
