@@ -1,3 +1,11 @@
+Note for judges: in order to get these to work on your computer, you will likely have to use the "shortcut method" described in the tutorial below, because Windows 10 etc is not very good at locating the right version of Java.
+
+Included mascots:
+Kraft Buddy, an American cheese slice who is hard at work making paper dolls of the judges
+Wedge, a sleepy cheese who should have gone to bed earlier but is trying to finish the knitting items
+Brovolone, a musical cheese who just wants to sing all of the musical items!
+
+
 
 ==== Requirements ==== 
 
