@@ -7,6 +7,8 @@ Included mascots:
 - Wedge, a sleepy cheese who should have gone to bed earlier but is trying to finish the knitting items
 - Brovolone, a musical cheese who just wants to sing all of the musical items!
 
+![wedge](https://user-images.githubusercontent.com/2042238/117597540-c99df780-b113-11eb-832e-01891a8f585c.gif)
+
 Previews:
 - https://gyazo.com/6c5794bb899999752784568e0150e49b
 - https://gyazo.com/17006306db720d04bc7ec9a70601d61f
